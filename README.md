@@ -1,78 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Faizan;Fullstack+Engineer+from+Lahore%2C+Pakistan;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan-maker&label=Profile%20views&color=0e75b6&style=flat-square" alt="faizan-maker" />
-  <img src="https://img.shields.io/github/followers/faizan-maker?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════╗
+║         MUHAMMAD FAIZAN — FULLSTACK ENGINEER              ║
+║         Lahore, Pakistan · Building in Public             ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=faizan-maker&theme=flat&column=7" alt="faizan-maker trophies" width="100%" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Django+%7C+DRF;Designing+systems%2C+not+just+writing+code.;Currently+shipping+a+Leetcode+Clone.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🛠️ About Me
+## `$ whoami`
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Engineering a production-grade <b>Leetcode Clone</b> built with Next.js.</li>
-        <li>🌱 <b>Deep Dive:</b> Advanced architecture in <b>Next.js</b>, <b>Django</b>, and <b>Django REST Framework (DRF)</b>.</li>
-        <li>👨‍💻 <b>Portfolio:</b> Explore my live engineering products at <a href="https://faizan-builds.vercel.app/">faizan-builds.vercel.app</a>.</li>
-        <li>💬 <b>Technical Discussions:</b> Hit me up for anything regarding <b>React.js Ecosystems, Backend Architecture, System Design</b>.</li>
-        <li>📫 <b>Get in Touch:</b> Secure connection via <a href="mailto:un6902090@gmail.com">un6902090@gmail.com</a>.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <a href="https://linkedin.com/in/muhammad-faizan" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br/><br/>
-      <a href="https://twitter.com/@uzumaki8716021" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-  </tr>
-</table>
+Fullstack engineer who cares about architecture, performance, and shipping things that actually work. Currently deep in **Next.js** and **Django REST Framework**, building production-grade systems — not tutorials.
+
+- 🚧 **Active build:** A [Leetcode Clone](https://faizan-builds.vercel.app/) — real judge, real problems, real constraints
+- 📡 **In the weeds on:** Advanced Next.js patterns, DRF serializers, system design
+- 🗣️ **Talk to me about:** React ecosystems, backend architecture, API design
+- 📬 **Reach me:** [un6902090@gmail.com](mailto:un6902090@gmail.com)
+- 🌐 **Work:** [faizan-builds.vercel.app](https://faizan-builds.vercel.app/)
 
 ---
 
-### 🧰 Languages and Tools
+## `$ ls ./stack`
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" alt="drf" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>&nbsp;
+**Frontend**
+```
+JavaScript · TypeScript · React.js · Next.js · Redux · Tailwind CSS · Bootstrap
+```
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</p>
+**Backend**
+```
+Python · Django · Django REST Framework · Node.js · Express.js
+```
+
+**Data**
+```
+PostgreSQL · MySQL · MongoDB
+```
+
+**Infrastructure & Tooling**
+```
+Docker · NGINX · Firebase · Appwrite · Git
+```
 
 ---
 
-### 📊 GitHub Metrics
+## `$ git log --oneline` — GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-maker&show_icons=true&locale=en&layout=compact&theme=theme_dark" alt="faizan-maker top languages" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan-maker&show_icons=true&locale=en&theme=theme_dark" alt="faizan-maker github stats" height="165" />
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=faizan-maker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-maker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=faizan-maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ curl socials`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faizan)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@uzumaki8716021)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://faizan-builds.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=faizan-maker&style=flat-square&color=00d9ff&label=" alt="views" /></sub>
+</div>
