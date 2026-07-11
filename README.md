@@ -107,7 +107,6 @@ React ecosystems, backend architecture, API design
 
 </div>
 
-> ⚙️ This one animates your **actual contribution graph** getting eaten by a snake, regenerated daily. Setup is one GitHub Action — see below.
 
 <br/>
 
